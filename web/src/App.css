@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: "MyCustomFont"; /* Name of the font */
-  src: url("./fonts/ff.woff2") format("woff2");
+  src: url("https://cas.apu.edu/cas/webjars/mdi__font/7.4.47/fonts/materialdesignicons-webfont.woff2?v=7.4.47") format("woff2");
   font-weight: normal; /* Specify the font weight */
   font-style: normal; /* Specify the font style */
 }
